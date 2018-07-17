@@ -6,5 +6,6 @@ __Orange__ เป็นโปรแกรมที่มีลักษณะก
 
 ![alt text](https://orange.biolab.si/static/images/orange_title_scaled.png)
 
-โปรแกรม Orange จะเรียกหน้าจอการทำงานว่า __workflow__ โดยผู้ใช้สามารถลาก __widget__ หรือไอคอนมาวางที่ workflow เพื่อกำหนดลักษณะการคำนวณได้
+โปรแกรม Orange จะเรียกหน้าจอการทำงานว่า __workflow__ โดยผู้ใช้สามารถลาก __widget__ หรือไอคอนมาวางที่ workflow เพื่อกำหนดลักษณะการคำนวณได้  
+
 ![alt text](https://orange.biolab.si/static/homepage/screenshots/images/image-analytics.png)
