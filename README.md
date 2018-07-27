@@ -9,3 +9,6 @@ __Orange__ เป็นโปรแกรมที่มีลักษณะก
 โปรแกรม Orange เรียกหน้าจอการทำงานว่า __workflow__ โดยผู้ใช้สามารถลาก __widget__ หรือไอคอนมาวางที่ workflow เพื่อกำหนดลักษณะการคำนวณได้  
 
 ![alt text](https://orange.biolab.si/static/homepage/screenshots/images/image-analytics.png)
+
+# Downoad Free Book
+- Link: https://github.com/mrolarik/Orange-visual-programming/blob/master/book/Orange-A-Visual-Programming-Tool-for-Machine-Learning-and-Data-Analytics.pdf
